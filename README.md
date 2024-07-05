@@ -1,7 +1,8 @@
 # Predicting-lenght-of-stay-in-hospitals
 
 This project aims to predict the Length of Stay (LoS) of patients in hospitals using Linear Regression.
-It is an example of when NOT to to use linear regression while selecting what algorithm to use for your machine learning problem.
+
+It is an example of when NOT to to use linear regression while selecting what algorithm to use for your machine learning problem, based on expreimenting with muliple changes (check out the pdf file).
 
 This project can help hospitals in several ways. By predicting the length of stay of patients, hospitals can better plan and allocate their resources, reduce overall costs, and improve patient care. For instance, hospitals can use the predictions to optimize bed management, staffing, and discharge planning. Additionally, the predictions can help identify patients who are at risk of prolonged hospitalization and take proactive measures to prevent complications and readmissions.
 Moreover, this project can provide valuable insights into the factors that influence the length of stay of patients. By analysing the relationships between the features and the target variable, students can identify the most important predictors and gain a deeper understanding of the underlying mechanisms. This knowledge can be used to develop more effective interventions and treatments that can reduce the length of stay and improve patient outcomes.
